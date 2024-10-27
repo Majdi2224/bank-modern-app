@@ -27,7 +27,6 @@ function App() {
           <Clients />
           <CTA />
           <Footer />
-          <FeedbackCard />
         </div>
       </div>
     </div>
